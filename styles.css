@@ -5,7 +5,7 @@
     display: none !important;
 }
 .nav-cnt .wrap-section .w-lngs {
-    width: 100%;
+    width: 100% !important;
     padding: 20px !important;
 }
 .nav-cnt .cnt .main-icon {
