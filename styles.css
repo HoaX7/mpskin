@@ -14,9 +14,6 @@
 .nav-cnt .cnt .icnt {
     padding: 0;
 }
-/* .ui-wrap .nav-box .nav-cnt .section.cnt > .arrow  {
-    transform: rotate(180deg);
-} */
 .ui-wrap .nav-box .nav-cnt .section.cnt > .arrow {
     right: 10px;
 }
