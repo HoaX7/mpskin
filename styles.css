@@ -32,7 +32,7 @@
 }
 .popup {
   font-family: "Nunito", sans-serif;
-  height: 400px;
+  /* height: 400px; */
   font-size: 16px;
   text-align: center;
 }
